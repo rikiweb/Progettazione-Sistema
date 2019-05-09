@@ -1,0 +1,21 @@
+Titolo: Partita a “Sabbia pallina”
+Attori:Utente
+Racconto:
+1)L'utente avvia il programma
+2)L'utente inserisce il numero di scatole 
+3)L'utente fa partire la partita
+4)Il sistema avvia il programma
+6)Il sistema crea le scatole
+7)Il sistema posiziona tutta la sabbia nella prima scatola
+8)Il sistema disegna e posiziona,casualmente,una pallina sopra la sabbia nella scatola riempita
+9)L'utente clicca il pulsante per incrementare/decrementare x/y
+10)Il sistema aumenta/diminuisce l'inclinazione sull'asse x/y
+11)Il sistema aggiorno l'inclinazione delle scatole
+12)Il sistema calcola la nuova posizione della pallina
+13)Il sistema ridisegna la pallina e ne simula lo spostamento
+14)Il sistema aggiorna i DatiCondivisi
+15)Il sistema ridisegna la sabbia nella scatola vicina se l'accumulo di sabbia è più alto del bordo    15.1)Il sistema toglie la sabbia se cade fuori dal piano
+16)Il sistema disegna la pallina nella scatola dove cade la sabbia   				       16.1)Il sistema ridisegna la pallina se cade nel piano
+17)L'utente ferma la partita
+18)Il sistema aggiorna i DatiCondivisi
+19)Il sistema chiude il programma
